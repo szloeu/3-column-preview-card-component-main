@@ -19,9 +19,10 @@ body {
 main {
 	display: flex;
 	flex-direction: row;
-	height: 100vh;
+	height: 96vh;
 	justify-content: center;
 	align-items: center;
+	margin-top: 4vh;
 }
 
 main div {
